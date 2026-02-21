@@ -1,0 +1,9 @@
+alerts:
+  recipients:
+    - peppapig@hamham.uk
+  send_even_if_no_drops: true
+
+email:
+  provider: sendgrid
+  from_name: FundScope Weekly
+  from_address: alerts@fundscope.app
